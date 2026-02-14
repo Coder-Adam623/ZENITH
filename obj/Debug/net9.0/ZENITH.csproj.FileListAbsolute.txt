@@ -1,0 +1,14 @@
+/Users/towfekzouheir/ZENITH/bin/Debug/net9.0/ZENITH
+/Users/towfekzouheir/ZENITH/bin/Debug/net9.0/ZENITH.deps.json
+/Users/towfekzouheir/ZENITH/bin/Debug/net9.0/ZENITH.runtimeconfig.json
+/Users/towfekzouheir/ZENITH/bin/Debug/net9.0/ZENITH.dll
+/Users/towfekzouheir/ZENITH/bin/Debug/net9.0/ZENITH.pdb
+/Users/towfekzouheir/ZENITH/obj/Debug/net9.0/ZENITH.GeneratedMSBuildEditorConfig.editorconfig
+/Users/towfekzouheir/ZENITH/obj/Debug/net9.0/ZENITH.AssemblyInfoInputs.cache
+/Users/towfekzouheir/ZENITH/obj/Debug/net9.0/ZENITH.AssemblyInfo.cs
+/Users/towfekzouheir/ZENITH/obj/Debug/net9.0/ZENITH.csproj.CoreCompileInputs.cache
+/Users/towfekzouheir/ZENITH/obj/Debug/net9.0/ZENITH.dll
+/Users/towfekzouheir/ZENITH/obj/Debug/net9.0/refint/ZENITH.dll
+/Users/towfekzouheir/ZENITH/obj/Debug/net9.0/ZENITH.pdb
+/Users/towfekzouheir/ZENITH/obj/Debug/net9.0/ZENITH.genruntimeconfig.cache
+/Users/towfekzouheir/ZENITH/obj/Debug/net9.0/ref/ZENITH.dll

@@ -1,0 +1,11 @@
+LDI R0, 0 ; counter, OUT
+LDI R1, 1 ; increment
+LDI R2, 11 ; limit
+
+OUT R0 ; output result
+ADD R0, R1 ; add increment to result
+SUB R2, R1 ; compare limit with increment, and decrease limit by decrement
+JZ 16 ; jump to HLT, addr 16
+JMP 6 ; jump to the outptu result addr 6
+
+HLT ; halt the program
