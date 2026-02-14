@@ -4,3 +4,7 @@ I built this as a passion project inspired by Arshia's AetherRISC:
 https://github.com/ArshiaS1381/AetherRISC
 
 Thx to Arshia for the idea!
+
+Usage:
+Example program already there as main.zen, a loop from 0 to 10.
+dotnet run
